@@ -1,5 +1,7 @@
 import Head from 'next/head'
 import styles from '../styles/Home.module.css'
+import "../styles/index.css";  // applied everywhere in the Next.js application scope
+
 
 export default function Home() {
   return (
